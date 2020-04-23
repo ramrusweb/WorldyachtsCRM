@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldyachtsCRMModel", "WorldyachtsCRMModel\WorldyachtsCRMModel.csproj", "{F8CC5BF9-B3B1-4A4D-A2AD-710F6E8C6E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CC5BF9-B3B1-4A4D-A2AD-710F6E8C6E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CC5BF9-B3B1-4A4D-A2AD-710F6E8C6E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CC5BF9-B3B1-4A4D-A2AD-710F6E8C6E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CC5BF9-B3B1-4A4D-A2AD-710F6E8C6E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA167B5D-7DC4-4B74-8E3C-E626ED57098C}
+	EndGlobalSection
+EndGlobal
